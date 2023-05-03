@@ -10,7 +10,7 @@ function Contacts() {
             <h1>CONTACT</h1>
             <div className="contact_details">
                 <h4>Email:<span>jacsonnikil090@gmail.com</span></h4>
-                <h4>Phone:<span>79049958330</span></h4>
+                <h4>Phone:<span>7904995833</span></h4>
             </div>
             <div className="contact_icons">
                 <a href="https://www.linkedin.com/in/nikil-jacson-b48452246/">
