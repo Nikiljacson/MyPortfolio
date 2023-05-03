@@ -1,0 +1,34 @@
+.projects > img {
+    width: 25vw;
+    height:20vh;
+    margin: 5px;
+    margin-top: 2vh;
+}
+.projects{
+    width: 25vw;
+    height:20vh;
+    margin: 5px;
+    transition: transform 1000ms ease-in-out; 
+}
+.projects:hover{
+    color: WHITE;
+    background-color: rgb(230, 72, 15);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transform: scale(1.05);
+}
+.projectContent{
+    width: 25vw;
+    height:20vh;
+    margin: 5px;
+}
+.projectContent > h4{
+    color: black;
+    text-align: center;
+}
+.projectContent > p{
+    padding: 0%;
+    text-align: center;
+}
