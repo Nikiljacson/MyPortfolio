@@ -28,12 +28,14 @@
     align-items: center;
 }
 .header_right > a > h4{
-    font-size: 16px;
+    font-size: 2vh;
     cursor: pointer;
     transition: transform 200ms ease-in-out;
-    padding: 4px 0;
+    padding: 4px;
     letter-spacing: 1px;
-    font-size: 16px;
+    border-radius: 5px;
+    margin: 5px;
+    text-align: center;
 }
 .header_right > a > h4:hover{
     transform: scale(1.09);
