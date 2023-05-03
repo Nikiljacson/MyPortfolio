@@ -5,7 +5,7 @@ import './About.css';
 // import developer from '../../assets/developer.jpg'; 
 
 function AboutMe() {
-    const my_CV="https://drive.google.com/file/d/1zcrz4IzzlM2D2p-1Zs8WZrfKPMul6ePR/view?usp=share_link";
+    const my_CV="https://drive.google.com/file/d/1U6FFvadK9zvpAyR9eZWd32JI7vXpyakN/view?usp=share_link";
 
     const downloadCV=(url)=>{
         const fileName = url.split("/").pop();
