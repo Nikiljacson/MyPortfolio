@@ -4,6 +4,7 @@ import Projects from '../Projects/Projects';
 import './ProjectContainer.css';
 import TodoList from '../../assets/TodoList.jpg';
 import weatherapp from '../../assets/weatherapp.jpg';
+import QuizWorld from '../../assets/QuizWorld.jpg';
 
 function ProjectContainer(params) {
     const my_projects=[
@@ -18,6 +19,12 @@ function ProjectContainer(params) {
             title:"Weather App",
             desc:"This project helps user to search the current weather condition in the location they search.",
             link:"https://nikiljacson.github.io/weather-forecast-app/"
+        },
+         {
+            img:QuizWorld,
+            title:"Quiz World",
+            desc:"Quiz world is an interactive web application that allows users to take quizzes on various topics.",
+            link:"https://nikiljacson.github.io/QuizWorld/"
         }
     ];
     return(
